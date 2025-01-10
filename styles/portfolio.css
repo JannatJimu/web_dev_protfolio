@@ -39,6 +39,7 @@
 }
 .header{
     background-image: url('../images/developer.png') ,url('../images/header_bg.png');
+    min-height: fit-content;
     background-repeat: no-repeat;
     background-position:top left,bottom right ;
     margin: 0px 0px 20px 0px;
